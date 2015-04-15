@@ -1,0 +1,21 @@
+h1 {
+  color: pink;
+}
+
+#first, #second {
+  padding: 10px;
+}
+
+#first {
+  width: 400px;
+  float: left;
+}
+
+#second {
+  width: 400px;
+  float: left;
+}
+
+article > img {
+  width: 400px;
+}
