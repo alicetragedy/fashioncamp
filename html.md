@@ -92,7 +92,7 @@ In the previous example, the ```<meta>``` element had only one tag and didn’t 
 
 ```<img>``` is one of those tags that doesn’t need a separate closing tag. You could put ```</img>``` after the tag if you like, it doesn’t change the way the browser views the page. Images have to be kept in separate image files, outside the HTML file. Find an image of your liking on the web and save it in the same directory as your HTML file. If you don’t have a picture in mind then here’s the best picture on the internet: <a href="http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg" target="_blank">http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg</a>
 
-After you have your image, you can include it in your HTML page by using an <img> tag.
+After you have your image, you can include it in your HTML page by using an ```<img>``` tag.
 
 ```<img src="kittens.jpg">```
 
