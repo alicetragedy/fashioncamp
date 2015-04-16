@@ -1,6 +1,6 @@
 ### [HTM-WHAT?](https://github.com/alicetragedy/fashioncamp-html.git)
 
-Every webpage you look at is written in a language called HTML (HyperText Markup Language). You can think of HTML as the skeleton that gives every webpage structure. In this course, that's eaxctly what we'll do, using HTML to add paragraphs, headings, images and links to a webpage.
+Every webpage you look at is written in a language called HTML (HyperText Markup Language). You can think of HTML as the skeleton that gives every webpage structure. In this course, that's exactly what we'll do, using HTML to add paragraphs, headings, images and links to a webpage.
 
 HTML is the main markup language for creating web pages and other information that can be displayed in a web browser. You can write your web application in any programming languages, but in the end it will always be transformed into HTML because that’s the language of the browser. It is a so-called hierarchical language, you'll find out why in bit.
 
@@ -90,7 +90,7 @@ In the previous example, the ```<meta>``` element had only one tag and didn’t 
 
 ### Images
 
-```<img>``` is one of those tags that doesn’t need a separate closing tag. You could put ```</img>``` after the tag if you like, it doesn’t change the way the browser views the page. Images have to kept in separate image files, outside the HTML file. Find an image of your liking on the web and save it in the same directory as your HTML file. If you don’t have a picture in mind then here’s the best picture on the internet: <a href="http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg" target="_blank">http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg</a>
+```<img>``` is one of those tags that doesn’t need a separate closing tag. You could put ```</img>``` after the tag if you like, it doesn’t change the way the browser views the page. Images have to be kept in separate image files, outside the HTML file. Find an image of your liking on the web and save it in the same directory as your HTML file. If you don’t have a picture in mind then here’s the best picture on the internet: <a href="http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg" target="_blank">http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg</a>
 
 After you have your image, you can include it in your HTML page by using an <img> tag.
 
@@ -135,7 +135,7 @@ If you reload the page in your browser, you’ll notice the heading has vanished
 
 ### Practice makes perfect
 
-Now create a file called index.html, that has the right setup (```<html>```, ```<head>```, et all), contains one ```<h1>``` title (this can say anything you like), a ```<p>```aragraph, a link within that paragraph and an image. And yes you can ask for our help.
+Now create a file called index.html, that has the right setup (```<html>```, ```<head>```, et al), contains one ```<h1>``` title (this can say anything you like), a ```<p>```aragraph, a link within that paragraph and an image. And yes you can ask for our help.
 
 Done? Open your index.html in your browser (right-click) and marvel at your accomplishments. Your first web-page!
 
