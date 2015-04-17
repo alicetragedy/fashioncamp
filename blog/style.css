@@ -2,20 +2,35 @@ h1 {
   color: pink;
 }
 
+h3 {
+  color: #c0c0c0;
+}
+
 #first, #second {
   padding: 10px;
-}
-
-#first {
   width: 400px;
   float: left;
 }
 
-#second {
-  width: 400px;
+#third {
+  padding: 10px;
+  width: 600px;
   float: left;
 }
 
-article > img {
+.info-box {
+  padding: 10px;
+  border: 1px dotted black;
   width: 400px;
+  text-align: center;
+  float: left;
+}
+
+.info-box {
+  font-size: 28px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
