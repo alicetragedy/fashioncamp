@@ -20,14 +20,10 @@ h3 {
 
 .info-box {
   padding: 10px;
-  border: 1px dotted black;
   width: 400px;
-  text-align: center;
   float: left;
-}
-
-.info-box {
   font-size: 28px;
+  text-align: center;
 }
 
 img {
