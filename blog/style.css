@@ -6,6 +6,11 @@ h3 {
   color: #c0c0c0;
 }
 
+.container {
+  max-width: 100%;
+  float: left;
+}
+
 #first, #second {
   padding: 10px;
   width: 400px;
@@ -23,6 +28,22 @@ h3 {
   width: 400px;
   float: left;
   font-size: 28px;
+  text-align: center;
+}
+
+.my-list {
+  float: left;
+}
+
+.my-quote {
+  float: left;
+  font-style: italic;
+  text-align: right;
+}
+
+.my-quote > blockquote {
+  font-size: 48px;
+  color: #c0c0c0;
   text-align: center;
 }
 
