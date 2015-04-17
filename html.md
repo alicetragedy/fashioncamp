@@ -6,7 +6,7 @@ HTML is the main markup language for creating web pages and other information th
 
 ### Inspect all the elements
 
-We're hacking Facebook today. We'll not really. Only very locally actually. On your machine. Open up facebook.com and either right click your mouse or clickpad and select 'inspect element' or hit the command key (⌘) and 'u'. Et voila, you're looking at Facebook's HTML skeleton. It is a lot, but Facebook shares a lot of common features with other websites. For instance, try and find the ```title``` 'tag' (hint: it is inbetween ```head``` and ```/head```. Now there's Facebook in there. Try and change it into 'omg I am totally hacking Facebook!'. Hit the enter key and marvel at your accomplishments. We can also change the look of Facebook while we're at it. Find the ```<body>``` tag, select it and change the ```background-color``` to 'pink'. But that's all the CSS (CSS-WHAT?) we're discussing today!
+We're hacking Facebook today. Well not really. Only very locally actually. On your machine. Open up facebook.com and either right click your mouse or clickpad and select 'inspect element' or hit the command key (⌘) and 'u'. Et voila, you're looking at Facebook's HTML skeleton. It is a lot, but Facebook shares a lot of common features with other websites. For instance, try and find the ```title``` 'tag' (hint: it is inbetween ```head``` and ```/head```. Now there's Facebook in there. Try and change it into 'omg I am totally hacking Facebook!'. Hit the enter key and marvel at your accomplishments. We can also change the look of Facebook while we're at it. Find the ```<body>``` tag, select it and change the ```background-color``` to 'pink'. But that's all the CSS (CSS-WHAT?) we're discussing today!
 
 ### How to write a HTML document
 
@@ -135,7 +135,7 @@ If you reload the page in your browser, you’ll notice the heading has vanished
 
 ### Practice makes perfect
 
-Now create a file called index.html, that has the right setup (```<html>```, ```<head>```, et al), contains one ```<h1>``` title (this can say anything you like), a ```<p>```aragraph, a link within that paragraph and an image. And yes you can ask for our help.
+Now create a file called index.html, that has the right setup (```<html>```, ```<head>```, et al), contains one ```<h1>``` title (this can say anything you like), a ```<p>```aragraph, a link within that paragraph and an image. And yes you can ask us / Google for our help.
 
 Done? Open your index.html in your browser (right-click) and marvel at your accomplishments. Your first web-page!
 
