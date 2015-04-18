@@ -6,6 +6,11 @@ h3 {
   color: #c0c0c0;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   max-width: 100%;
   float: left;
@@ -47,7 +52,15 @@ h3 {
   text-align: center;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+/*
+body {
+  width: 50%;
 }
+*/
+
+/*
+li {
+  list-style: none;
+}
+*/
+
