@@ -192,11 +192,12 @@ Also make sure that all rules end with a ; and are placed inside of the curly br
 
 #### Practice makes perfect
 
-We've created a ready-to-use backend for you using Ruby on Rails. In the 'views' folder you will find our HTML documents. In our 'assets' folder you'll find our stylesheet. Try play around with in and get the following done:
+We've created a ready-to-use project for you using HTML and CSS in the 'blog' folder. Try playing around with it and get the following done:
 
-1. Make the first (```h1```) title red.
-2. Change the XX into XX
-3. ...
+1. Make the first (```h1```) title a darker shade of pink.
+2. In the second (```#second```) div, add an image in between the two paragraphs. It can be of whatever you want – but don't forget the alt text!
+3. Style the div with class ```info-box```: add a 1px wide black border (dashed, dotted or solid).
+4. At the bottom of the style.css file, we have commented out some code. Uncomment it, and watch what happens! 
 
 Time to check out our work and see if our HTML and CSS are getting along. Now opening our ```index.html``` file (or refreshing the page if it’s already opened) within a web browser should show slightly different results than before. Your first styled web-page!
 
