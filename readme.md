@@ -6,8 +6,8 @@ In this repository you'll find the slides, templates and step-by-step walk-throu
 - [Guide to HTML](https://github.com/alicetragedy/fashioncamp/blob/master/html.md)
 - [Guide to CSS](https://github.com/alicetragedy/fashioncamp/blob/master/css.md)
 - HTML Template
-- Slides HTML course
-- Sliders CSS course
+- [Slides HTML course](https://github.com/alicetragedy/fashioncamp/blob/master/slides/html.pdf)
+- [Slides CSS course](https://github.com/alicetragedy/fashioncamp/blob/master/slides/css.pdf)
 
 #### Contributing
 - Fork it
